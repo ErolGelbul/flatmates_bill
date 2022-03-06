@@ -40,6 +40,6 @@ If you would like to add any extra features to the optimisation simulation, feel
 
 Erol Gelbul - [Website](http://www.erolgelbul.com) - erolgelbul@gmail.com
 
-Project Link: [Instant Dictionary](https://github.com/ErolGelbul/instant_dictionary)
+Project Link: [Flatmates Bill](https://github.com/ErolGelbul/flatmates_bill)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
