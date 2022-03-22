@@ -29,6 +29,9 @@ To run the web application:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+<div style="text-align:center"><img src="images/preview.gif" /></div>
+
+
 <!-- TECH -->
 ## Software and Libraries
 
