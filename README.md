@@ -32,7 +32,7 @@ To run the web application:
 <!-- TECH -->
 ## Software and Libraries
 
-Web Frameworks: [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+Web Frameworks: [Flask](https://flask.palletsprojects.com/en/2.0.x/) - install: `$ pip install -U Flask`
 
 Libraries: [WTForms](https://wtforms.readthedocs.io/en/3.0.x/)
 
